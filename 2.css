@@ -1,3 +1,5 @@
+@import url("https://goldenlys.github.io/BetterDiscord-Elysia/RGB/selectors.css");
+
 @keyframes RGB_TEXT {
 	0% {
 		color: var(--C1)
@@ -294,5 +296,4 @@
 		background: var(--C1)
 		box-shadow: 0 0 5px var(--C10)
 	}
-}
 }
