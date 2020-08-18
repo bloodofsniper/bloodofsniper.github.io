@@ -1,31 +1,7 @@
 @font-face {
-    font-family: 'bloodyfontregular';
+    font-family: 'BloodyFont';
     src: url('https://github.com/bloodofsniper/bloodofsniper.github.io/blob/master/Regular/bloodyfont-regular-webfont.woff2') format('woff2'),
          url('https://github.com/bloodofsniper/bloodofsniper.github.io/blob/master/Regular/bloodyfont-regular-webfont.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-
-}
-
-
-
-
-@font-face {
-    font-family: 'bloodyfontbold';
-    src: url('https://github.com/bloodofsniper/bloodofsniper.github.io/blob/master/Bold/bloodyfont-bold-webfont.woff2') format('woff2'),
-         url('https://github.com/bloodofsniper/bloodofsniper.github.io/blob/master/Bold/bloodyfont-bold-webfont.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-
-}
-
-
-
-
-@font-face {
-    font-family: 'bloodyfontthin';
-    src: url('https://github.com/bloodofsniper/bloodofsniper.github.io/blob/master/Thin/bloodyfont-thin-webfont.woff2') format('woff2'),
-         url('https://github.com/bloodofsniper/bloodofsniper.github.io/blob/master/Thin/bloodyfont-thin-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
